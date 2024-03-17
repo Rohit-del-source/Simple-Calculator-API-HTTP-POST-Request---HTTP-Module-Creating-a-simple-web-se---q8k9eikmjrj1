@@ -6,4 +6,3 @@ const mongoose = require('mongoose');
 dotenv.config();
 
 app.listen(3000, () => console.log('Server running......'));
-
